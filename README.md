@@ -29,23 +29,26 @@ This project implements a digital audio playback system on an FPGA (DE1-SoC) cap
   - Handles timing and synchronization using signals from the flash
 
 - **User Playback Control**:
+
   - **PS/2 keyboard used for:**
-        - **Play (E)**
-            Starts or resumes audio playback.
-        
-        - **Stop (D)**
-            Pauses or halts audio playback.
-        
-        - **Forward (F)**  
-            Skips forward through the audio stream.
-        
-        - **Reverse (B)**
-            Rewinds or plays the audio in reverse (if supported).
-        
-        - **Restart (R) - bonus feature**
-            Restarts the audio from the beginning.
-  - **Hardware buttons**
-    - Control playback speed dynamically
+
+    - **Play (E)**  
+      Starts/resumes audio playback
+
+    - **Stop (D)**  
+      Pauses audio playback
+
+    - **Forward (F)**  
+      Plays the audio forward
+
+    - **Reverse (B)**  
+      Rewinds/plays the audio in reverse
+
+    - **Restart (R)** *(bonus feature)*  
+      Restarts the audio from the beginning
+
+  - **Hardware buttons:**  
+    Control playback speed dynamically in real time
 
 - **Real-Time DSP with PicoBlaze**:
     - Implements a **PicoBlaze soft processor** for audio signal analysis
