@@ -30,11 +30,20 @@ This project implements a digital audio playback system on an FPGA (DE1-SoC) cap
 
 - **User Playback Control**:
   - PS/2 keyboard used for: 
-        - Play
-        - Stop
-        - Forward
-        - Reverse
-        - Restart (bonus feature)
+        - **Play (E)** 
+            Starts or resumes audio playback.
+        
+        - **Stop (D)**  
+            Pauses or halts audio playback.
+        
+        - **Forward (F)**  
+            Skips forward through the audio stream.
+        
+        - **Reverse (B)**  
+            Rewinds or plays the audio in reverse (if supported).
+        
+        - **Restart (R)** *(bonus feature)*  
+            Restarts the audio from the beginning.
   - Hardware buttons control playback speed dynamically
 
 - **Real-Time DSP with PicoBlaze**:
