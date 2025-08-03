@@ -42,7 +42,7 @@ This project implements a digital audio playback system on an FPGA (DE1-SoC) cap
         - **Reverse (B)**
             Rewinds or plays the audio in reverse (if supported).
         
-        - **Restart (R)** *bonus feature*
+        - **Restart (R) - bonus feature**
             Restarts the audio from the beginning.
   - **Hardware buttons**
     - Control playback speed dynamically
