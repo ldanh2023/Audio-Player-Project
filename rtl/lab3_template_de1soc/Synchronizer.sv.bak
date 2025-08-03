@@ -1,0 +1,16 @@
+module Synchronizer(input async_in, input clk_in, output sync_out);
+    logic sync_level_1, sync_level_2;
+	 
+    always_ff @(posedge clk_in or posedge reset) begin
+        if (reset) begin
+				sync_out <= 1'b0;
+            sync_level_1 <= 1'b0;
+            sync_level_2 <= 1'b0;
+        end else begin
+            sync_level_1 <= async_in;
+            sync_level_2 <= sync_level_1;
+        end
+    end
+    
+    assign sync_out = sync_level_1 & ~sync_level_2; // Rising edge detection
+endmodule

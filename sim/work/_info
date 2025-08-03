@@ -1,0 +1,310 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vArbitrary_Clock_Divider_My_Version
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1748900369
+!i10b 1
+!s100 JTh:EX0?<z2AN=3^fUDD40
+I68[:DE22FKz3DH8HEVZIX2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 Arbitrary_Clock_Divider_My_Version_sv_unit
+S1
+Z2 dC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim
+w1748666809
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Arbitrary_Clock_Divider_My_Version.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Arbitrary_Clock_Divider_My_Version.sv
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1748900369.000000
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Arbitrary_Clock_Divider_My_Version.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Arbitrary_Clock_Divider_My_Version.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+n@arbitrary_@clock_@divider_@my_@version
+vArbitrary_Clock_Divider_My_Version_tb
+R0
+Z7 !s110 1748900370
+!i10b 1
+!s100 79]>MH2Wo4no<_kQOY^?91
+IlX>=CP:6M3CKf7IO2o@oe0
+R1
+!s105 Arbitrary_Clock_Divider_My_Version_tb_sv_unit
+S1
+R2
+w1748140340
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Arbitrary_Clock_Divider_My_Version_tb.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Arbitrary_Clock_Divider_My_Version_tb.sv
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Arbitrary_Clock_Divider_My_Version_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Arbitrary_Clock_Divider_My_Version_tb.sv|
+!i113 1
+R5
+R6
+n@arbitrary_@clock_@divider_@my_@version_tb
+vFlash_FSM_Controller
+R0
+R7
+!i10b 1
+!s100 @TjiOQm1IonEDnU>U91AB0
+I7@ZVd:@JUWmdMaKQc_9QF0
+R1
+!s105 Flash_FSM_Controller_sv_unit
+S1
+R2
+w1748837400
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Flash_FSM_Controller.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Flash_FSM_Controller.sv
+L0 14
+R3
+r1
+!s85 0
+31
+Z8 !s108 1748900370.000000
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Flash_FSM_Controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Flash_FSM_Controller.sv|
+!i113 1
+R5
+R6
+n@flash_@f@s@m_@controller
+vFlash_FSM_Controller_tb
+R0
+R7
+!i10b 1
+!s100 EbAZLO8BL]G]N;R`JVAPG3
+I^>P_KB`Ab4CPGXDlO]_GM1
+R1
+!s105 Flash_FSM_Controller_tb_sv_unit
+S1
+R2
+w1748891217
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Flash_FSM_Controller_tb.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Flash_FSM_Controller_tb.sv
+L0 24
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Flash_FSM_Controller_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Flash_FSM_Controller_tb.sv|
+!i113 1
+R5
+R6
+n@flash_@f@s@m_@controller_tb
+vFrequency_Controller
+R0
+R7
+!i10b 1
+!s100 C4<e[iZ_hDJ19_zIEW:Kf1
+I05Pf88IiBBS7M]MzonJI?1
+R1
+!s105 Frequency_Controller_sv_unit
+S1
+R2
+w1748884233
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Frequency_Controller.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Frequency_Controller.sv
+L0 13
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Frequency_Controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Frequency_Controller.sv|
+!i113 1
+R5
+R6
+n@frequency_@controller
+vFrequency_Controller_tb
+R0
+R7
+!i10b 1
+!s100 _G=UPX1b1n=`U94EEii@N0
+IBTjKP1UQnbziWij_be;gD3
+R1
+!s105 Frequency_Controller_tb_sv_unit
+S1
+R2
+w1748893525
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Frequency_Controller_tb.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Frequency_Controller_tb.sv
+L0 17
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Frequency_Controller_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Frequency_Controller_tb.sv|
+!i113 1
+R5
+R6
+n@frequency_@controller_tb
+vKeyboard_Interface
+R0
+R7
+!i10b 1
+!s100 bR4QaeeVO0JM_Qi@n5=c>2
+InRMle@T0EGBeX7AlT?aFV0
+R1
+!s105 Keyboard_Interface_sv_unit
+S1
+R2
+w1748838140
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Keyboard_Interface.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Keyboard_Interface.sv
+L0 9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Keyboard_Interface.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Keyboard_Interface.sv|
+!i113 1
+R5
+R6
+n@keyboard_@interface
+vKeyboard_Interface_tb
+R0
+R7
+!i10b 1
+!s100 m4G59<WKP0alchkK2zNbX2
+IQ`ZHI`O7gWS?AleTWl7K[3
+R1
+!s105 Keyboard_Interface_tb_sv_unit
+S1
+R2
+w1748898430
+8C:\Users\dli9g\Desktop\CPEN311\Daniel_Li_51814762_Lab_2\sim\Keyboard_Interface_tb.sv
+FC:\Users\dli9g\Desktop\CPEN311\Daniel_Li_51814762_Lab_2\sim\Keyboard_Interface_tb.sv
+L0 12
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\dli9g\Desktop\CPEN311\Daniel_Li_51814762_Lab_2\sim\Keyboard_Interface_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\dli9g\Desktop\CPEN311\Daniel_Li_51814762_Lab_2\sim\Keyboard_Interface_tb.sv|
+!i113 1
+R5
+R6
+n@keyboard_@interface_tb
+vLED_FSM_Controller
+R0
+R7
+!i10b 1
+!s100 jaQj9JDlln=^_o@X:`9c32
+I9CIjK93A7K>zN<U9_FNjR0
+R1
+!s105 LED_FSM_Controller_sv_unit
+S1
+R2
+w1748667132
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/LED_FSM_Controller.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/LED_FSM_Controller.sv
+Z9 L0 26
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/LED_FSM_Controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/LED_FSM_Controller.sv|
+!i113 1
+R5
+R6
+n@l@e@d_@f@s@m_@controller
+vLED_FSM_Controller_tb
+R0
+R7
+!i10b 1
+!s100 geFb=WekADdn8RJ@EdDn02
+Ij;H]XYi5B>0Z36C@cYz7T1
+R1
+!s105 LED_FSM_Controller_tb_sv_unit
+S1
+R2
+w1748152373
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/LED_FSM_Controller_tb.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/LED_FSM_Controller_tb.sv
+R9
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/LED_FSM_Controller_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/LED_FSM_Controller_tb.sv|
+!i113 1
+R5
+R6
+n@l@e@d_@f@s@m_@controller_tb
+vSynchronizer
+R0
+R7
+!i10b 1
+!s100 7Wf3emlK^H]>bHmIDm=aY1
+IiAXE2AGEzn@OJ<RPYONNZ0
+R1
+!s105 Synchronizer_sv_unit
+S1
+R2
+w1748842368
+8C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Synchronizer.sv
+FC:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Synchronizer.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Synchronizer.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dli9g/Desktop/CPEN311/Daniel_Li_51814762_Lab_2/sim/Synchronizer.sv|
+!i113 1
+R5
+R6
+n@synchronizer
+vSynchronizer_tb
+R0
+R7
+!i10b 1
+!s100 dz1GZ7RXP5mjZC@PfPC6_0
+IH7X1dW7`hmWL?7OCMl]<R2
+R1
+!s105 Synchronizer_tb_sv_unit
+S1
+R2
+w1748900366
+8C:\Users\dli9g\Desktop\CPEN311\Daniel_Li_51814762_Lab_2\sim\Synchronizer_tb.sv
+FC:\Users\dli9g\Desktop\CPEN311\Daniel_Li_51814762_Lab_2\sim\Synchronizer_tb.sv
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\dli9g\Desktop\CPEN311\Daniel_Li_51814762_Lab_2\sim\Synchronizer_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\dli9g\Desktop\CPEN311\Daniel_Li_51814762_Lab_2\sim\Synchronizer_tb.sv|
+!i113 1
+R5
+R6
+n@synchronizer_tb
